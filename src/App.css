@@ -1,0 +1,205 @@
+.msg {
+  height: 50px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+.cont {
+  margin-top: 10px;
+}
+
+.btns {
+  margin-left: auto;
+}
+
+.image {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 550px;
+}
+
+.text-1 {
+  color: white;
+  position: relative;
+  bottom: 400px;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+.content_head {
+  text-align: center;
+}
+
+.content_img {
+  width: 450px;
+  height: 250px;
+}
+
+.content_1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+
+}
+
+.content_card {
+  margin-top: 50px;
+  width: 500px;
+}
+
+.royal_contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.royal {
+  margin-top: 100px;
+  background-color: rgb(197, 194, 194);
+  padding: 50px;
+}
+
+.royal_head {
+  text-align: center;
+  width: 700px;
+}
+
+.royal_img {
+  width: 500px;
+}
+
+.royal_imgs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.water_image {
+  width: 500px;
+}
+
+.water_contain {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.watermark {
+  width: 600px;
+}
+
+
+.card_con {
+  text-align: center;
+}
+
+.card_content {
+  padding: 20px;
+  border: 1px solid rgb(182, 179, 179);
+  border-radius: 10px;
+  width: 400px;
+  margin-top: 20px;
+  background-color: white;
+}
+
+.card_main {
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+
+}
+
+.card {
+  background-color: rgb(225, 224, 224);
+  padding: 20px;
+  padding-bottom: 30px;
+}
+
+.list_btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: aquamarine;
+  border: 1px solid gray;
+}
+
+.edit_img {
+  width: 500px;
+}
+
+.edit {
+  background-color: rgb(149, 116, 151);
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.review_cont {
+  position: relative;
+  bottom: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.review-img {
+  height: 600px;
+  width: 100%;
+}
+
+.review_text {
+  margin-top: 200px;
+  color: white;
+  width: 300px;
+}
+
+.create_head {
+  text-align: center;
+  margin: 20px;
+}
+
+.create_pro {
+  display: flex;
+  gap: 20px;
+}
+
+.create_text1 {
+  width: 600px;
+  border-radius: 10px;
+  background-color: rgb(199, 196, 196);
+  padding: 10px;
+  color: black;
+}
+
+.create_head {
+  display: flex;
+  justify-content: space-around;
+}
+
+.create_op {
+  background-color: antiquewhite;
+  width: 400px;
+  margin-left: 80px;
+  border-radius: 20px;
+}
+
+.create_form {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.create {
+  background-color: rgb(235, 234, 234);
+  padding: 20px;
+}
